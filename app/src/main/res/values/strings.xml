@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MIUI MultiUser Hook</string>
+    <string name="xposed_description">给 MIUI 安全空间搜索增加多用户切换入口</string>
+</resources>
